@@ -1,4 +1,6 @@
-package at.ac.fhcampuswien;
+package at.ac.fhcampuswien.students;
+
+import at.ac.fhcampuswien.Student;
 
 public class Rubak extends Student {
     private String vorname = "Mario";
