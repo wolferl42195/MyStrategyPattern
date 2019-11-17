@@ -4,9 +4,9 @@ import at.ac.fhcampuswien.Student;
 
 public class Wattar extends Student {
 
-    private  string firstName = "Mohammad Bashar";
-    private  string lastName = "Wattar";
-    private  string favoriteQuote = "Enjoy Today, Don't wait for Tomorrow ";
+    private  String firstName = "Mohammad Bashar";
+    private  String lastName = "Wattar";
+    private  String favoriteQuote = "Enjoy Today, Don't wait for Tomorrow ";
 
 
     @java.lang.Override
